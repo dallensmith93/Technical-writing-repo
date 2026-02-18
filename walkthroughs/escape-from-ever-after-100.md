@@ -7,8 +7,8 @@ Structured 100% completion guide including Sun Gems, Trinkets, Ink Bottles, Outf
 # Escape From Ever After – Part 1 – He’s a Creepy Moon!
 
 ## Objectives
-- do intro crap  
-- Change settings to not have to time crap  
+- do intro stuff 
+- Change settings to not have to time stuff
 
 ## Episode Collectables
 - Get first sun gem under stairs (1/70)  
